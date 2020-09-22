@@ -4,19 +4,19 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/workspace/Concurrent-Traffic-Simulation/src/Graphics.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o"
-  "/home/workspace/Concurrent-Traffic-Simulation/src/Intersection.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o"
-  "/home/workspace/Concurrent-Traffic-Simulation/src/Street.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/Street.cpp.o"
-  "/home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o"
-  "/home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o"
-  "/home/workspace/Concurrent-Traffic-Simulation/src/TrafficSimulator-Final.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o"
-  "/home/workspace/Concurrent-Traffic-Simulation/src/Vehicle.cpp" "/home/workspace/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/Graphics.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/Intersection.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/Street.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/Street.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficLight.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficObject.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficSimulator-Final.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o"
+  "/Users/aravindalluri/CLionProjects/traffic-simulation/src/Vehicle.cpp" "/Users/aravindalluri/CLionProjects/traffic-simulation/build/CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include/opencv4"
+  "/usr/local/Cellar/opencv/4.4.0_2/include/opencv4"
   )
 
 # Targets to which this target links.

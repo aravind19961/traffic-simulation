@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.cpp
+/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficLight.cpp
 iostream
 -
 random
 -
 TrafficLight.h
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
+/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficLight.h
 
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
+/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficLight.h
 mutex
 -
 deque
@@ -22,9 +22,9 @@ deque
 condition_variable
 -
 TrafficObject.h
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
+/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficObject.h
 
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
+/Users/aravindalluri/CLionProjects/traffic-simulation/src/TrafficObject.h
 vector
 -
 thread
